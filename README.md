@@ -2,5 +2,5 @@
 learn to use github
 
 - [X] base command
-- [] Pull Request
-- [] issue
+- [X] Pull Request
+- [X] issue
